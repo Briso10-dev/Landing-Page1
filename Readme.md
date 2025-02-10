@@ -1,4 +1,4 @@
-# Project 10 : Landing page2
+# Project 7 : Landing page1
 
  ## Aim
     Realising a Landing page on differrnts particles
